@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Егор Распивин](https://up.htmlacademy.ru/javascript/10/user/451363).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Новикова](https://htmlacademy.ru/profile/id83457).
 
 ---
 
